@@ -4,6 +4,8 @@ Dit is een project wat je kunt gebruiken als starter voor je eigen project. Kloo
 
 > Remember your upstream and good luck!
 
+Kijk ook eens hier: https://github.com/tcbrouwer/quarantaine.academy/projects/1#card-47545541
+
 ## Project setup
 ```
 npm install
