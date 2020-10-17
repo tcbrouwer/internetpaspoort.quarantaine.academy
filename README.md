@@ -1,5 +1,9 @@
 # quarantaine-academy
 
+Dit is een project wat je kunt gebruiken als starter voor je eigen project. Kloon, vork, whatever; ga aan de gang!
+
+> Remember your upstream and good luck!
+
 ## Project setup
 ```
 npm install
