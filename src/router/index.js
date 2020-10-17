@@ -7,23 +7,6 @@ const routes = [
   {
     path: '/',
   },
-  {
-    path: '/courses',
-    name: 'Courses',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import('../views/Courses.vue')
-  },
-  {
-    path: '/courses/:course',
-    name: 'CoursePage',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import('../views/CoursePage.vue'),
-    props: route => { return { courseName: route.params.course } }
-  }
 ]
 
 const router = new VueRouter({
