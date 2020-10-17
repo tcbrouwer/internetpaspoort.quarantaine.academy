@@ -6,7 +6,6 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
-    redirect: "/courses" 
   },
   {
     path: '/courses',
