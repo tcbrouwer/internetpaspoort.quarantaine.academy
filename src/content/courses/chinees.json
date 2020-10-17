@@ -75,6 +75,16 @@
             }
         },
         {
+            "title": "Vind meer op edX",
+            "text": [
+                "Lesmateriaal te over! Waar wacht je nog op?"
+            ],
+            "link": {
+                "url": "https://www.edx.org/learn/chinese",
+                "text": "Ga naar edx.org"
+            }
+        },
+        {
             "title": "Help mee!",
             "text": [
                 "Leren doe je samen!",
@@ -84,16 +94,6 @@
             "link": {
                 "url": "https://codefornl.slack.com/app_redirect?channel=quarantaine-academy",
                 "text": "Ga naar het kanaal in Code4NL Slack!"
-            }
-        },
-        {
-            "title": "Vind meer op edX",
-            "text": [
-                "Lesmateriaal te over! Waar wacht je nog op?"
-            ],
-            "link": {
-                "url": "https://www.edx.org/learn/chinese",
-                "text": "Ga naar edx.org"
             }
         }
     ]
