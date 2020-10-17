@@ -21,10 +21,6 @@
             "short": "jongleren",
             "full": "Leren jongleren in twee weken"
         },
-        "mentor": {
-            "name": "Jongleer collectief 'de voorbeeldnaam",
-            "avatar": "https://picsum.photos/320/320?random=3"
-        },
         "description": "Heb jij altijd al willen jongleren omdat het goed is voor je hersenen (https://moreballs.com/het-effect-van-jongleren/), of gewoon omdat het leuk is? Begin vast met een cursus en doe mee met de digitale oefensessies!",
         "audience": "Iedereen die van ballen houd",
         "duration": "Twee weken",
@@ -78,7 +74,7 @@
             "full": "中文？当然！ Chinees natuurlijk!"
         },
         "mentor": {
-            "name": "Tim?",
+            "name": "Tim",
             "avatar": "https://picsum.photos/320/320?random=1"
         },
         "description": "(Of was het nou 當然?) Chinees, dat is toch supermoeilijk omdat ze geen letters gebruiken? Kunnen ze geen plaatjes gebruiken? Ja zeker! Leer hoe Chinees gebruik maakt van ideogrammen. Begin vast met oefenen: 一，二，三。。。",
@@ -96,7 +92,7 @@
             "full": "Olympic starterkit Japans"
         },
         "mentor": {
-            "name": "Tim?",
+            "name": "Tim",
             "avatar": "naganoolympics.png"
         },
         "description": "Kijk jij straks als een baas de Tokyo Olympics 2021? Bereid je woordenschat nu vast voor: 一、二、三。。。",
