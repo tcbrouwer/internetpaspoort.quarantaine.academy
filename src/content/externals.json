@@ -44,5 +44,18 @@
             "url": "https://www.cbg-meb.nl/actueel/nieuws/2020/10/16/het-grootste-coronaspreekuur-van-nederland-op-5-november",
             "text": "Bekijk op cbg-meb.nl"
         }
+    },
+    {
+        "name": "boekschrijven.q.a",
+        "mentor": {
+            "name": "Iedereen",
+            "role": "Studiegenoten"
+        },
+        "start": "Wanneer je wilt",
+        "cost": "Gratis natuurlijk",
+        "link": {
+            "url": "http://boekschrijven.quarantaine.academy",
+            "text": "Ga naar boekschrijven.q.a"
+        }
     }
 ]
