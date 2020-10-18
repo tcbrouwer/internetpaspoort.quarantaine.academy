@@ -13,6 +13,11 @@
     <b-card-text>
         Tim Brouwer
     </b-card-text>
+    <b-card-text>
+      <p><b>Stamps</b></p>
+      <p>github.nl.stamp</p>
+      <p>linkedin.nl.stamp</p>
+    </b-card-text>
   </b-card>
 </template>
 
